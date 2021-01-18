@@ -319,8 +319,6 @@ http://admin-mainpanel.club:8080/liviu/liviu/20647
 http://admin-mainpanel.club:8080/liviu/liviu/20646
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP CRO: SPORT KLUB 10" tvg-logo="[" group-title="Live: HRVATSKA",VIP CRO: SPORT KLUB 10
 http://admin-mainpanel.club:8080/liviu/liviu/20645
-#EXTINF:-1 tvg-ID="" tvg-name="==== Slovenia ====" tvg-logo="" group-title="",==== Slovenia ====
-http://admin-mainpanel.club:8080/liviu/liviu/4018
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 1 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 1 HD
 http://admin-mainpanel.club:8080/liviu/liviu/9298
 #EXTINF:-1 tvg-ID="NULL" tvg-name="VIP SLO: SPORT TV 2 HD" tvg-logo="[" group-title="Live: Slovenia",VIP SLO: SPORT TV 2 HD
@@ -733,7 +731,7 @@ http://admin-mainpanel.club:8080/liviu/liviu/9119
 http://admin-mainpanel.club:8080/liviu/liviu/1037
 #EXTINF:-1 tvg-ID="rts2.rs" tvg-name="RS: RTS 2" tvg-logo="" group-title="Live: SRBIJA",RS: RTS 2
 http://admin-mainpanel.club:8080/liviu/liviu/1038
-#EXTINF:-1 tvg-ID="rts3.rs" tvg-name="RS: RTS 3" tvg-logo="" group-title="Live: ESRBIJA",RS: RTS 3
+#EXTINF:-1 tvg-ID="rts3.rs" tvg-name="RS: RTS 3" tvg-logo="" group-title="Live: SRBIJA",RS: RTS 3
 http://admin-mainpanel.club:8080/liviu/liviu/7025
 #EXTINF:-1 tvg-ID="NULL" tvg-name="RS: B92" tvg-logo="" group-title="Live: SRBIJA",RS: B92
 http://admin-mainpanel.club:8080/liviu/liviu/7043
@@ -1035,7 +1033,7 @@ http://admin-mainpanel.club:8080/liviu/liviu/13540
 http://admin-mainpanel.club:8080/liviu/liviu/13536
 #EXTINF:-1 tvg-ID="NULL" tvg-name="RS: RED TV" tvg-logo="" group-title="Live: SRBIJA",RS: RED TV
 http://admin-mainpanel.club:8080/liviu/liviu/23617
-#EXTINF:-1 tvg-ID="" tvg-name="RS: 24 Kitchen" tvg-logo="" group-title="Live: ESRBIJA",RS: 24 Kitchen
+#EXTINF:-1 tvg-ID="" tvg-name="RS: 24 Kitchen" tvg-logo="" group-title="Live: SRBIJA",RS: 24 Kitchen
 http://admin-mainpanel.club:8080/liviu/liviu/7904
 #EXTINF:-1 tvg-ID="NULL" tvg-name="RS: A TV" tvg-logo="[" group-title="Live: SRBIJA",RS: A TV
 http://admin-mainpanel.club:8080/liviu/liviu/7044
@@ -1075,7 +1073,7 @@ http://admin-mainpanel.club:8080/liviu/liviu/13582
 http://admin-mainpanel.club:8080/liviu/liviu/1030
 #EXTINF:-1 tvg-ID="" tvg-name="BH: HAYAT Plus" tvg-logo="[""]" group-title="Live: BOSNA",BH: HAYAT Plus
 http://admin-mainpanel.club:8080/liviu/liviu/31313
-#EXTINF:-1 tvg-ID="hayatovci.ba" tvg-name="BH: HAYATOVCI" tvg-logo="[" group-title="Live: BOSNAEX-Yu",BH: HAYATOVCI
+#EXTINF:-1 tvg-ID="hayatovci.ba" tvg-name="BH: HAYATOVCI" tvg-logo="[" group-title="Live: BOSNA",BH: HAYATOVCI
 http://admin-mainpanel.club:8080/liviu/liviu/13551
 #EXTINF:-1 tvg-ID="hayatmusic.ba" tvg-name="BH: HAYAT Music" tvg-logo="" group-title="Live: BOSNA",BH: HAYAT Music
 http://admin-mainpanel.club:8080/liviu/liviu/17994
