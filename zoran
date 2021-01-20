@@ -666,7 +666,7 @@ http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/14687
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/14688
 #EXTINF:-1 ,(ExYu) SportKlub 6
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/38251
-#EXTINF:-1 ,------|Bulgaria|------
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| SPORTKLUB HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="bugarija2",|EXYU| SPORTKLUB HD
 http://a1.gokakka.club:8880/testzyx030/123456789/30826
 #EXTINF:-1 ,BG001:BNT 1 HD
 http://a1.gokakka.club:8880/testzyx030/123456789/30825
@@ -888,7 +888,7 @@ http://a1.gokakka.club:8880/testzyx030/123456789/30718
 http://a1.gokakka.club:8880/testzyx030/123456789/30717
 #EXTINF:-1 ,BG110:TV 1000
 http://a1.gokakka.club:8880/testzyx030/123456789/30716
-#EXTINF:-1 ,------|Greece|------
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| SPORTKLUB HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="Greece sport2",|EXYU| SPORTKLUB HD
 #EXTINF:-1 ,GR015:Nova Sport 1
 http://a1.gokakka.club:8880/testzyx030/123456789/31222
 #EXTINF:-1 ,GR016:Nova Sport 2
