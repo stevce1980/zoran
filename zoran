@@ -213,7 +213,7 @@ http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/745
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/743
 #EXTINF:-1,EX-YO: Arena Sport 5 RS
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/741
-#EXTINF:-1 tvg-id="" tvg-name="|EXYU| SPORTKLUB HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",|EXYU| SPORTKLUB HD
+#EXTINF:-1 tvg-id="" tvg-name="|EXYU| SPORTKLUB HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="SPORTKLUB",|EXYU| SPORTKLUB HD
 http://bestiptvline.com:80/Makedonski/3477569A2015/74878
 #EXTINF:-1,EX-YO: Sport Klub 1
 http://skyhd-iptv.com:2095/stalkerexyo/WyeKsAI0Rc/740
@@ -1830,5 +1830,3 @@ http://admin-mainpanel.club:8080/liviu/liviu/26100
 http://admin-mainpanel.club:8080/liviu/liviu/26101
 #EXTINF:-1 tvg-ID="" tvg-name="VIP IT: Sky Calcio 9 HD" tvg-logo="" group-title="Live: Italy",VIP IT: Sky Calcio 9 HD
 http://admin-mainpanel.club:8080/liviu/liviu/26102
-EXTINF:-1 tvg-id="" tvg-name="|EXYU| SPORTKLUB HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/EXYU/EXYO/SPORTKLUB-1.png" group-title="EU | EX-YU",|EXYU| SPORTKLUB HD
-http://bestiptvline.com:80/Makedonski/3477569A2015/74878
